@@ -1,6 +1,7 @@
-# Psychological disorders visualization project
+# Psychological Disorders Visualization Project
 
-![image](https://github.com/davidfernandez1619/Dashboard-Project/assets/38441372/b26d7011-46b2-40fc-897b-618700fc8491)
+![image](https://github.com/davidfernandez1619/Dashboard-Project/assets/38441372/e8f01b62-93ca-4f68-b42b-5caea633e1ef)
+
 
 ## Introduction
 
@@ -30,7 +31,7 @@ All the maps and graphics change depending on which year you choose on the filte
 
 The goal of this dashboard is to have a bird's-eye view of the general prevalence of each disorder per country, and see how it evolves overtime. You can explore your country and continent if you want and see for yourself. 
 
-**-Dashboard 2:** *'Spain'*. This dashboard focuses specifically on Spain. I took four socioeconomic factors to see how they correlate with each disorder: 
+**-Dashboard 2:** *'Spain'*. This dashboard focuses specifically on Spain, since I'm Spanish and I wanted to study a bit more in depth my country's mental health. I took four socioeconomic factors to see how they correlate with each disorder: 
 
 * **Purchasing power:** economic capacity of a person or a community to acquire goods and services. It's measured as euros (available rent a person has to buy goods and services). 
 
