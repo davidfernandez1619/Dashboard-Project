@@ -53,6 +53,8 @@ This data suggests that these factors have an influence on population's mental h
 
 * Add population data. This will help to better understand and contextualize prevalence. It's not the same to have for example a 3% prevalence of depression in a country with a population of 1M people, than in a country with 300M people.
 
+* Add causality: try to explain why there are certain correlations between some socioeconomic factors and some disorders, to try to understand the causes. 
+
 ## Tools: 
 
 * [**Python**](https://www.python.org/)
